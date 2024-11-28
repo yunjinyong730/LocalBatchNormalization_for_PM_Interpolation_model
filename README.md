@@ -43,7 +43,7 @@
 3. S. H. Kim et al., "Explainable AI-driven high-fidelity IAQ prediction model for subway stations", Building and Environment, 2024.
 4. C. S. Laurent et al., "Batch Normalized Recurrent Neural Networks", IEEE ICASSP, 2015
 
-등
+...
 
 ### **그림 및 표 요약**
 
