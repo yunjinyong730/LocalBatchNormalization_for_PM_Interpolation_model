@@ -55,3 +55,5 @@
 
 - **표 1**: 모델별 보간 성능 비교 - Local BN 모델이 가장 높은 정확도를 기록.
 
+## 🥇Award
+<img width="891" alt="스크린샷 2024-12-04 오후 4 38 20" src="https://github.com/user-attachments/assets/164eb622-9100-4638-a059-56f720b9d7e7">
